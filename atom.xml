@@ -6,7 +6,7 @@
   <link href="https://blog.qcrrm.com/atom.xml" rel="self"/>
   
   <link href="https://blog.qcrrm.com/"/>
-  <updated>2021-06-14T07:38:08.069Z</updated>
+  <updated>2021-10-23T12:51:44.000Z</updated>
   <id>https://blog.qcrrm.com/</id>
   
   <author>
@@ -17,11 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>相册-原神</title>
+    <link href="https://blog.qcrrm.com/2021/10/23/%E7%A7%8D%E8%8A%B1%E8%AE%B0-%E7%BB%AA/"/>
+    <id>https://blog.qcrrm.com/2021/10/23/%E7%A7%8D%E8%8A%B1%E8%AE%B0-%E7%BB%AA/</id>
+    <published>2021-10-23T12:50:16.000Z</published>
+    <updated>2021-10-23T12:51:44.000Z</updated>
+    
+    
+    
+    
+    
+    <category term="photos" scheme="https://blog.qcrrm.com/tags/photos/"/>
+    
+  </entry>
+  
+  <entry>
     <title>随笔</title>
     <link href="https://blog.qcrrm.com/2021/06/14/%E9%9A%8F%E7%AC%94/"/>
     <id>https://blog.qcrrm.com/2021/06/14/%E9%9A%8F%E7%AC%94/</id>
     <published>2021-06-14T07:14:31.000Z</published>
-    <updated>2021-06-14T07:38:08.069Z</updated>
+    <updated>2021-06-14T07:38:10.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="开始">开始</h2><p>一直没有找到自己特别心仪的主题，于是开始自己制作主题。奈何自己水平有限，慢慢搁置，以至于忘记了写博客的初衷。是为了纪录，而不是为了一些花里胡哨。</p><p>时隔两年，花了一天多的时候重新温习一下Hexo的搭建。</p><p>好在之前的东西并不多，可以直接放弃之前的所有，从零开始。</p><h2 id="端午">端午</h2><p>今天是端午，各位端午安康。</p><p>这个端午，没有回家，也没有出去玩。</p><p>三天过的很快，相比于以前，这三天确实有做了些什么。</p><ul><li>开始看书，并做了笔记。</li><li>开始写博客，并把这个博客搭建起来。</li></ul>]]></content>
     
@@ -42,19 +57,19 @@
   </entry>
   
   <entry>
-    <title>相册-原神</title>
-    <link href="https://blog.qcrrm.com/2021/06/14/%E7%9B%B8%E5%86%8C-%E5%8E%9F%E7%A5%9E/"/>
-    <id>https://blog.qcrrm.com/2021/06/14/%E7%9B%B8%E5%86%8C-%E5%8E%9F%E7%A5%9E/</id>
+    <title>相册-背景</title>
+    <link href="https://blog.qcrrm.com/2021/06/14/%E7%9B%B8%E5%86%8C-%E8%83%8C%E6%99%AF/"/>
+    <id>https://blog.qcrrm.com/2021/06/14/%E7%9B%B8%E5%86%8C-%E8%83%8C%E6%99%AF/</id>
     <published>2021-06-14T07:14:16.000Z</published>
-    <updated>2021-06-14T07:38:42.426Z</updated>
+    <updated>2021-06-14T07:40:00.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://image.qcrrm.com/qin.png" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://image.qcrrm.com/kanna.jpg" alt=""></p><p><img src="https://image.qcrrm.com/bg/%E3%81%93%E3%81%AE%E3%81%AF%E3%81%AA%E7%B6%BA%E8%AD%9A.jpeg" alt=""></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://image.qcrrm.com/qin.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://image.qcrrm.com/kanna.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://image.qcrrm.com/bg/%E3%81%93%E3%81%AE%E3%81%AF%E3%81%AA%E7%</summary>
       
     
     
@@ -65,19 +80,19 @@
   </entry>
   
   <entry>
-    <title>相册-背景</title>
-    <link href="https://blog.qcrrm.com/2021/06/14/%E7%9B%B8%E5%86%8C-%E8%83%8C%E6%99%AF/"/>
-    <id>https://blog.qcrrm.com/2021/06/14/%E7%9B%B8%E5%86%8C-%E8%83%8C%E6%99%AF/</id>
+    <title>相册-原神</title>
+    <link href="https://blog.qcrrm.com/2021/06/14/%E7%9B%B8%E5%86%8C-%E5%8E%9F%E7%A5%9E/"/>
+    <id>https://blog.qcrrm.com/2021/06/14/%E7%9B%B8%E5%86%8C-%E5%8E%9F%E7%A5%9E/</id>
     <published>2021-06-14T07:14:16.000Z</published>
-    <updated>2021-06-14T07:39:59.111Z</updated>
+    <updated>2021-06-14T07:38:44.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://image.qcrrm.com/kanna.jpg" alt=""></p><p><img src="https://image.qcrrm.com/bg/%E3%81%93%E3%81%AE%E3%81%AF%E3%81%AA%E7%B6%BA%E8%AD%9A.jpeg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://image.qcrrm.com/qin.png" alt=""></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://image.qcrrm.com/kanna.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://image.qcrrm.com/bg/%E3%81%93%E3%81%AE%E3%81%AF%E3%81%AA%E7%</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://image.qcrrm.com/qin.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</summary>
       
     
     
